@@ -46,4 +46,4 @@ Converting the absolute values to a binary class system (flop or success) only l
 
 
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
-The data used for the analysis comes from [The Movie Database](https://www.themoviedb.org/documentation/api) and has been supplied by kaggle [here](https://www.kaggle.com/c/tmdb-box-office-prediction). There is licensing information on the datasets [here](https://www.themoviedb.org/documentation/api/terms-of-use) and [here](https://www.kaggle.com/c/tmdb-box-office-prediction). Feel free to use the code as you please and play around with it.
+The data used for the analysis comes from [The Movie Database](https://www.themoviedb.org/documentation/api) and has been supplied by kaggle [here](https://www.kaggle.com/c/tmdb-box-office-prediction). There is licensing information on the datasets [here](https://www.themoviedb.org/documentation/api/terms-of-use) and [here](https://www.kaggle.com/c/tmdb-box-office-prediction). 
